@@ -1,2 +1,2 @@
 # audio-switcher
-arduino audio switcher
+audio switcher for Arduino Mega
